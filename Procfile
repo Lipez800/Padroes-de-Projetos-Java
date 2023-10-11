@@ -1,0 +1,1 @@
+web: java -jar target/dio-projeto-rest-api-spring-santander-0.0.1-SNAPSHOT.jar

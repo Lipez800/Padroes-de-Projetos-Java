@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://${HOST}:${PORT}/${DATABASE}
+    username: ${USER}
+    password: ${PASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate #create
