@@ -1,3 +1,7 @@
-# DIO - Projeto: Explorando Padrões de Projetos na Prática com Java
+# DIO - Explorando Padrões de Projetos na Prática com Java
 
-Projeto desenvolvido com Java e o framework Spring com Spring Boot 3.
+Projetos desenvolvidos com Java e o framework Spring, demonstrando a aplicação dos seguintes padrões de projeto:
+
+- Singleton
+- Strategy
+- Facade
